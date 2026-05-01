@@ -19,7 +19,7 @@ Kurulum gerektirmez — indir, çalıştır ve profilini özelleştir 🚀
 
 👉 En son sürüm:
 
-* **[Presenzy.exe](https://github.com/botnyro-afk/presenzy-discord-presence/releases/tag/v1.6.2)**
+* **[[Presenzy.exe](https://github.com/botnyro-afk/presenzy-discord-presence/releases/tag/v1.6.2)](https://github.com/botnyro-afk/presenzy-discord-presence/releases/tag/v1.7.1)**
 
 > ⚠️ Sadece Windows desteklenir
 
